@@ -18,8 +18,8 @@
 const mysql = require('mysql');
 const con = mysql.createConnection({
   host     : 'localhost',
-  user     : 'sush',
-  password : 'sush123',
+  user     : 'lamp',
+  password : 'shikha',
   database : 'my_db',
 });
 
